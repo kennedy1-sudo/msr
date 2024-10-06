@@ -1,2 +1,2 @@
 # msr
-Mines Reactor Design 2024
+Colorado School of Mines Reactor Design 2024
